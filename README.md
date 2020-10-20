@@ -1,6 +1,6 @@
 # ONU Mujeres - Paz y seguridad web
 
-This website was developed by Rodolfo Miranda Company ( [la bau—la](https://www.labaula.net/) ) for [United Nations Women LATAM](https://www.bsc.es/). 
+This website was developed by Rodolfo Miranda Company ( [la bau—la](https://www.labaula.net/) ) for [United Nations Women LATAM](https://lac.unwomen.org/en). 
 *	Development start date: 20/10/2020
 *	Development end date: ongoing
 *	[Template preview](https://www.labaula.net/terrenodepruebas/jicara/)
