@@ -58,7 +58,6 @@ Below you can see the main DOM structure for our website's sections. You can rep
 
 
 ### Other info
-
-
+*	To initialize an npm package.json file, on command enter: npm init, and then follow instructions
 
 
